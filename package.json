@@ -1,6 +1,6 @@
 {
   "name": "mode-grammar-builder",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "description": "Build a jison grammar for a bash-parser mode",
   "repository": "vorpaljs/mode-grammar-builder",
   "license": "MIT",
@@ -8,7 +8,13 @@
   "scripts": {
     "test": "xo"
   },
-  "keywords": ["vorpal", "bash-parser", "tool", "cli","build"],
+  "keywords": [
+    "vorpal",
+    "bash-parser",
+    "tool",
+    "cli",
+    "build"
+  ],
   "engines": {
     "node": ">=6"
   },
