@@ -2,6 +2,12 @@
 
 > Build a jison grammar for a mode-grammar-builder mode
 
+This is an internal binary tool used by the bash-parser build toolchain
+to compile a json grammar to a javascript file.
+
+You usually don't need to use it directly if you are not developing
+Vorpal.
+
 
 # Usage
 
