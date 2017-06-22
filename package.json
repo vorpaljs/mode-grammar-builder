@@ -2,13 +2,13 @@
   "name": "mode-grammar-builder",
   "version": "0.4.1",
   "description": "Build a jison grammar for a bash-parser mode",
-  "repository": "vorpaljs/bash-ast-traverser",
+  "repository": "vorpaljs/mode-grammar-builder",
   "license": "MIT",
-  "author": "Andrea Parodi",
+  "author": "Andrea Parodi <andrea@parro.it>",
   "scripts": {
     "test": "xo"
   },
-  "keywords": [],
+  "keywords": ["vorpal", "bash-parser", "tool", "cli","build"],
   "engines": {
     "node": ">=6"
   },
