@@ -1,4 +1,4 @@
-# mode-grammar-builder
+# mode-grammar-builder
 
 > Build a jison grammar for a mode-grammar-builder mode
 
